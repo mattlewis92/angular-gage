@@ -1,5 +1,5 @@
 {
-  "name": "angular-gage",
+  "name": "@socialsignin/angular-gage",
   "version": "0.1.0",
   "dependencies": {},
   "peerDependencies": {
